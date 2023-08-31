@@ -1,0 +1,2 @@
+#!/bin/bash
+mkdir -rn 751 my_dir
